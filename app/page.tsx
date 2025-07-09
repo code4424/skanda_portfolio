@@ -359,7 +359,7 @@ export default function Portfolio() {
               className="rounded-full border-4 border-gradient-to-r from-pink-500 via-red-500 to-yellow-500 shadow-2xl hover:rotate-3 transition-transform duration-300"
             />
           </motion.div>
-          <h2 className="text-2xl sm:text-3xl font-bold mt-4 text-gray-900 dark:text-white">SKANDA I B</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold mt-4 text-gray-900 dark:text-white">SKANDA I B...</h2>
           <TextGenerateEffect
             words="Transforming Ideas into Intelligent Solutions"
             className="text-4xl sm:text-5xl md:text-4xl font-extrabold bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent"
