@@ -29,8 +29,6 @@ import {
   SiNodedotjs,
 } from "react-icons/si"
 import { FaCube } from "react-icons/fa"
-import { SpeedInsights } from "@vercel/speed-insights/next"
-import { Analytics } from "@vercel/analytics/next"
 
 const projects = [
   {
@@ -717,4 +715,4 @@ export default function Portfolio() {
     </div>
   )
 }
-<><Analytics /><SpeedInsights /></>
+
