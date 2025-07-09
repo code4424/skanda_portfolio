@@ -37,7 +37,7 @@ const projects = [
     description: "Medical diagnostic system with 98% accuracy using Deep Learning",
     link: "#",
     tech: ["Machine Learning", "Python", "TensorFlow", "Pandas", "NumPy", "Matplotlib", "Sci-kit Learn", "keras"],
-    achievement: "Best Project Award - DBIT",
+    //achievement: "Best Project Award - DBIT",
   },
   {
     title: "Gaming Community Portal",
