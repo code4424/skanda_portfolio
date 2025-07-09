@@ -29,6 +29,8 @@ import {
   SiNodedotjs,
 } from "react-icons/si"
 import { FaCube } from "react-icons/fa"
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
 
 const projects = [
   {
@@ -194,7 +196,7 @@ const freelancingProjects = [
     client: "NewConcepts Homes",
     project: "Interior Design Website",
     description: "Interior design services with portfolio showcase",
-    link: "https://newconceptshomesblr.com",
+    link: "https://newconcepthomesblr.com",
   },
   {
     client: "AV Tech",
@@ -715,3 +717,4 @@ export default function Portfolio() {
     </div>
   )
 }
+<><Analytics /><SpeedInsights /></>
