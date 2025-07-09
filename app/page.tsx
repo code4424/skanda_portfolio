@@ -194,7 +194,7 @@ const freelancingProjects = [
     client: "NewConcepts Homes",
     project: "Interior Design Website",
     description: "Interior design services with portfolio showcase",
-    link: "https://newconceptshomesblr.com",
+    link: "https://newconcepthomesblr.com",
   },
   {
     client: "AV Tech",
